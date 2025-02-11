@@ -1,12 +1,14 @@
+## Hi there 🐻  
 
-## Hi there 🐻
-OpenAlpha was founded by a few Berkeley AI Research [(BAIR)](https://bair.berkeley.edu/) grad students and is a community-led collaborative research organization composed of graduate students, postgrads, and industry collaborators focused on applied projects.
+OpenAlpha was founded by a few Berkeley AI Research [(BAIR)](https://bair.berkeley.edu/) grad students as a **community-led, collaborative research organization**. Composed of graduate students, postgrads, and industry collaborators. 
 
-------
+---  
 
-_Definition:_ An **Open Alpha** is a development stage where software is publicly available for testing while still incomplete. Unlike a **Closed Alpha**, which is restricted to select users, an Open Alpha invites broader participation to gather feedback, identify issues, and refine systems before Beta or release.  
+### **What is an Open Alpha?**  
 
-Beyond testing, Open Alpha reflects a **development philosophy**—favoring transparency, iteration, and community-driven progress. It turns users into contributors, making development an open, interactive process rather than a closed cycle.  
+An **Open Alpha** is a development stage where software is publicly available for testing while still incomplete. Unlike a **Closed Alpha**, which is restricted to select users, an Open Alpha invites broader participation to gather feedback, identify issues, and refine systems before Beta or release.  
+
+Beyond testing, Open Alpha represents a **development philosophy**—favoring transparency, iteration, and community-driven progress. It turns users into contributors, making development an open, interactive process rather than a closed cycle.  
 
 <!--
 

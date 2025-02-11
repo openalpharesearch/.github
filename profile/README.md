@@ -4,9 +4,9 @@ OpenAlpha was founded by a few Berkeley AI Research [(BAIR)](https://bair.berkel
 
 ---  
 
-### **What is an Open Alpha?**  
+#### **What is an Open Alpha?**  
 
-An **Open Alpha** is a development stage where software is publicly available for testing while still incomplete. Unlike a **Closed Alpha**, which is restricted to select users, an Open Alpha invites broader participation to gather feedback, identify issues, and refine systems before Beta or release.  
+An **Open Alpha** is term typically used in game development, it is a development stage where software is publicly available for testing while still incomplete. Unlike a **Closed Alpha**, which is restricted to select users, an Open Alpha invites broader participation to gather feedback, identify issues, and refine systems before Beta or release.  
 
 Beyond testing, Open Alpha represents a **development philosophy**—favoring transparency, iteration, and community-driven progress. It turns users into contributors, making development an open, interactive process rather than a closed cycle.  
 
